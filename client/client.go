@@ -5,9 +5,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/tomatome/grdp/glog"
-	"github.com/tomatome/grdp/protocol/pdu"
-	"github.com/tomatome/grdp/protocol/rfb"
+	"github.com/Hinonch/grdp/glog"
+	"github.com/Hinonch/grdp/protocol/pdu"
+	"github.com/Hinonch/grdp/protocol/rfb"
 )
 
 const (
